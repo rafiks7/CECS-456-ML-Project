@@ -11,9 +11,10 @@ To see the details of the project, including data preprocessing, model training,
 - Naive Bayes
 - Logistic Regression
 - Ensemble Classifier
+  
 ## Results
 The Multilayer Neural Network and XGBoost models showed the highest accuracy in predicting rainfall.
 
 ## Requirements
-Python
-Jupyter Notebook
+- Python
+- Jupyter Notebook
